@@ -1,0 +1,66 @@
+c:\Users\Biruk T\Documents\Visual Studio 2013\Projects\MVC TestApp\MVC TestApp\obj\Debug\MVC TestApp.csprojResolveAssemblyReference.cache
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\MVC TestApp.dll.config
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\MVC TestApp.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\MVC TestApp.pdb
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Antlr3.Runtime.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Data.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\EntityFramework.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Microsoft.Owin.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Newtonsoft.Json.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Ninject.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Ninject.Web.Common.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Ninject.Web.Mvc.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Owin.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\System.Web.Helpers.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\System.Web.Mvc.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\System.Web.Optimization.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\System.Web.Razor.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\System.Web.WebPages.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\WebActivatorEx.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\WebGrease.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Data.pdb
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\EntityFramework.xml
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Ninject.xml
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Ninject.Web.Common.xml
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Ninject.Web.Mvc.xml
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\System.Web.Helpers.xml
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\System.Web.Mvc.xml
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\System.Web.Optimization.xml
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\System.Web.Razor.xml
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\System.Web.WebPages.xml
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Newtonsoft.Json.xml
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Antlr3.Runtime.pdb
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Microsoft.Owin.xml
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\obj\Debug\MVC TestApp.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\obj\Debug\MVC TestApp.pdb
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Services.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\MVC TestApp\bin\Services.pdb

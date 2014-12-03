@@ -1,0 +1,9 @@
+c:\Users\Biruk T\Documents\Visual Studio 2013\Projects\MVC TestApp\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\Services\bin\Debug\Services.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\Services\bin\Debug\Services.pdb
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\Services\bin\Debug\Data.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\Services\bin\Debug\EntityFramework.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\Services\bin\Debug\Data.pdb
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\Services\bin\Debug\EntityFramework.xml
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\Services\obj\Debug\Services.dll
+C:\Users\Biruk T\documents\visual studio 2013\Projects\MVC TestApp\Services\obj\Debug\Services.pdb
